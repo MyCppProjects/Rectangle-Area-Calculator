@@ -1,0 +1,3 @@
+﻿  Rectangle.cpp
+c:\users\flick\source\repos\rectangle\rectangle\rectangle.cpp(76): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Rectangle.vcxproj -> C:\Users\Flick\source\repos\Rectangle\Debug\Rectangle.exe
